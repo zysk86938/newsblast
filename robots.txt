@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:https://newsblast.vercel.app/sitemap.xml
+Sitemap:https://newsblast.netlify.app/sitemap.xml
